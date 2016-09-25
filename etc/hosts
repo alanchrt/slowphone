@@ -1,0 +1,8 @@
+127.0.0.1       localhost
+127.0.0.1       api.giphy.com
+127.0.0.1       android.clients.google.com
+127.0.0.1       www.google.com
+127.0.0.1       twitter.com
+127.0.0.1       www.facebook.com
+127.0.0.1       www.wunderground.com
+::1             ip6-localhost
